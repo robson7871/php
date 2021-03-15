@@ -1,5 +1,6 @@
 <?php
 
-echo "Olá mundo"
+echo "Olá mundo123"
 
+echo "Olá mundo do php"
 ?>
